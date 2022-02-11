@@ -43,10 +43,10 @@ function App() {
     <div class="card">
       {/* <img src="/w3images/team3.jpg" alt="John" style="width:100%" /> */}
       <div class="container">
-        <h2>John Doe</h2>
-        <p class="title">Designer</p>
+        <h2>Aung Myat</h2>
+        <p class="title">Scrum Master</p>
         <p>Describe about you and your role</p>
-        <p>john@example.com</p>
+        <p>amyat@mail.sfsu.edu</p>
         <p><button class="button">Contact</button></p>
       </div>
     </div>
